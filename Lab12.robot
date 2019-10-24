@@ -9,5 +9,4 @@ ${COMMISSIONPROBLEM}    https://www.google.com/
 
 Open Event CommissionProblem Page:
     Open Browser    ${COMMISSIONPROBLEM}    ${BROWSER}
-    Set Selenium Speed    ${DELAY}
 	Location Should Be    ${COMMISSIONPROBLEM}
